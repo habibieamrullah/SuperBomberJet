@@ -6,3 +6,5 @@ In this game, your mission is to destroy ground enemy objects by droping bombs f
 If you run out the bombs before all enemies destroyed, you lost the game.
 
 Play this game online here: https://superbomberjet.ciihuy.com
+
+Or watch its video here: https://www.youtube.com/watch?v=OEfAVzQ-B0c
